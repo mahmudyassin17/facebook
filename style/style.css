@@ -1,0 +1,110 @@
+section {
+    margin-bottom: 100px;
+}
+
+.facebook {
+    color: blue;
+    font-size: 4em;
+    font-weight: 800;
+}
+
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    margin: 5px 5px;
+}
+
+p {
+    margin: 0px;
+    font-size: 20px;
+    color: darkslategray;
+
+}
+
+.sign-up {
+    padding: 30px;
+    background-color: lavender;
+    width: 435px;
+    margin: 0 auto;
+    border-radius: 5px;
+
+}
+
+.first-name,
+.sur-name {
+    width: 178px;
+    padding: 11px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.email,
+.password,
+.birthdate {
+    width: 400px;
+    padding: 11px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+label {
+    overflow: hidden;
+}
+
+.radio-input {
+    border: 2px solid rgb(59, 59, 59);
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 20px;
+    padding: 11px;
+
+}
+
+.gender-selection {
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+
+.btn-submit {
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 11px 30px;
+    font-size: 16px;
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+    font-size: large;
+    font: bolder;
+}
+
+.link-tag {
+    font-size: 25px;
+    text-decoration: none;
+    display: block;
+    margin-top: 10px;
+    color: navy;
+}
+
+/* Table part */
+table {
+    width: 80%;
+    margin: 0 auto;
+}
+
+table,
+th,
+td {
+    text-align: center;
+    font-size: 30px;
+    border: 2px solid grey;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: cadetblue;
+}
